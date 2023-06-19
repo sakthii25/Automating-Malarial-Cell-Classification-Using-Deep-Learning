@@ -21,12 +21,8 @@ Streamlit
 
 ## Installation
 
+1. Clone the repository
 ```bash
-#!/bin/bash
-
-# This is a simple bash script that prints "Hello, World!"
-# to the console.
-
-echo "Hello, World!"
+git clone https://github.com/sakthii25/Automating-Malarial-Cell-Classification-Using-Deep-Learning
 ```
 
