@@ -45,19 +45,6 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 
 5. Access the application by opening the provided URL in your web browser.
 
-## Training the Model:
-
-If you wish to train the model using your own dataset, follow these steps:
-
-1. Prepare your dataset by organizing it into two separate folders: one for malarial cells and another for non-malarial cells.
-
-2. Update the dataset paths in the train.py file.
-
-3. Run the training script:
-   ``` python train.py ```
-
-4. The trained model will be saved in the models directory.
-
 ## Contributing:
 
 We welcome contributions from the community to enhance this project further. If you find any issues or have suggestions for improvement, please submit a pull request or open an issue on the GitHub repository.
