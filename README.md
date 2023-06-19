@@ -21,11 +21,9 @@ Streamlit
 
 ## Installation
 
-1. Clone the repository
-   ''' bash
-   git clone https://github.com/sakthii25/Automating-Malarial-Cell-Classification-Using-Deep-Learning/
-   '''
-2. Install the required dependencies
-  ''' bash
-  pip install -r requirements.txt
-  '''
+```python
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
+```
