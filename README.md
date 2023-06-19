@@ -22,5 +22,11 @@ Streamlit
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/automated-malarial-cell-classification.git
+#!/bin/bash
+
+# This is a simple bash script that prints "Hello, World!"
+# to the console.
+
+echo "Hello, World!"
 ```
+
