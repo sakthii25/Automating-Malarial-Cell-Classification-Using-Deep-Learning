@@ -21,9 +21,6 @@ Streamlit
 
 ## Installation
 
-```python
-def hello_world():
-    print("Hello, World!")
-
-hello_world()
+```bash
+git clone https://github.com/yourusername/automated-malarial-cell-classification.git
 ```
