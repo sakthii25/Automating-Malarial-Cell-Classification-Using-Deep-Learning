@@ -52,4 +52,4 @@ We welcome contributions from the community to enhance this project further. If 
 
 ## Acknowledgements:
 
-We would like to express our gratitude to the open-source community for providing invaluable resources and frameworks that made this project possible.
+We would like to express our gratitude to the open-source community for providing valuable resources and frameworks that made this project possible.
