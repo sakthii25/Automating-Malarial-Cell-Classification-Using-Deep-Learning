@@ -35,12 +35,12 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 
 1. Navigate to the project directory:
    ``` bash
-   cd automated-malarial-cell-classification
+   cd Malarial-Cell-Classification
    ```
 
 3. Launch the Streamlit application:
    ``` bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 5. Access the application by opening the provided URL in your web browser.
@@ -49,9 +49,6 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 
 We welcome contributions from the community to enhance this project further. If you find any issues or have suggestions for improvement, please submit a pull request or open an issue on the GitHub repository.
 
-## License:
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements:
 
