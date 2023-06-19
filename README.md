@@ -22,26 +22,26 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 ## Installation:
 
 1. Clone the repository:
-   ''' bash
+   ``` bash
    git clone https://github.com/yourusername/automated-malarial-cell-classification.git
-   '''
+   ```
 
 3. Install the required dependencies:
-   ''' bash
+   ``` bash
    pip install -r requirements.txt
-   ''' bash
+   ```
 
 ## Usage:
 
 1. Navigate to the project directory:
-   ''' bash
+   ``` bash
    cd automated-malarial-cell-classification
-   '''
+   ```
 
 3. Launch the Streamlit application:
-   ''' bash
+   ``` bash
    streamlit run app.py
-   '''
+   ```
 
 5. Access the application by opening the provided URL in your web browser.
 
@@ -54,7 +54,7 @@ If you wish to train the model using your own dataset, follow these steps:
 2. Update the dataset paths in the train.py file.
 
 3. Run the training script:
-   python train.py
+   ``` python train.py ```
 
 4. The trained model will be saved in the models directory.
 
