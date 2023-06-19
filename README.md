@@ -14,10 +14,10 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 
 ## Prerequisites:
 
-- Python (version X.X.X)
-- TensorFlow (version X.X.X)
-- OpenCV (version X.X.X)
-- Streamlit (version X.X.X)
+- Python 
+- TensorFlow 
+- OpenCV 
+- Streamlit 
 
 ## Installation:
 
